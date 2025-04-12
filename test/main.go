@@ -3,6 +3,7 @@ package main
 import (
     "fmt"
     "io/ioutil"
+	"github.com/icarus-00/ctfattack"
 )
 func init() {
     data, _ := ioutil.ReadFile("./flag.txt")

@@ -2,7 +2,7 @@ package ctfattack
 
 import (
     "fmt"
-    "io/ioutil"
+    
 )
 
 func init() {
