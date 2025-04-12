@@ -6,5 +6,5 @@ import (
 )
 
 func init() {
-    fmt.println("hello");
+    fmt.Println("hello") // Capitalize 'Println'
 }
